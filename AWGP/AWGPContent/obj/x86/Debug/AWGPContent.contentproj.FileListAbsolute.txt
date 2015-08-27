@@ -1,0 +1,7 @@
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGPContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGPContent\obj\x86\Debug\AWGPContent.contentprojResolveAssemblyReference.cache
+E:\AWGP\AWGP\AWGP\AWGPContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGPContent\obj\x86\Debug\AWGPContent.contentprojResolveAssemblyReference.cache
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGPContent\obj\x86\Debug\AWGPContent.contentprojResolveAssemblyReference.cache
+\\psf\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGPContent\obj\x86\Debug\AWGPContent.contentprojResolveAssemblyReference.cache
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGPContent\obj\x86\Debug\AWGPContent.contentprojResolveAssemblyReference.cache

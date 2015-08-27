@@ -1,0 +1,313 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AWGP.Behaviour">
+    <Position X="21.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACYAAAAAAAAAAAAAAAAAAAAAAAAAEAAAQAAAAAgAAAA=</HashCode>
+      <FileName>Behaviours\Behaviour.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AWGP.JitterBehaviour">
+    <Position X="20.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAgAAAA=</HashCode>
+      <FileName>Behaviours\JitterBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AWGP.NormalBehaviour">
+    <Position X="22.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAQAAAAAgAAAA=</HashCode>
+      <FileName>Behaviours\NormalBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AWGP.EditorForm">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>9YigQAAAIKwAQBASAGCAAABCAAAwAggACBAIAAABBAA=</HashCode>
+      <FileName>EditorForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AWGP.Game">
+    <Position X="27.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgEEAAAAACAwAAAAAgAABAAAAAQAghAAAAAEIAAAQ=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AWGP.SpriteManager">
+    <Position X="29.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAgAAAAAUIAAAQCAAAA=</HashCode>
+      <FileName>Graphics\SpriteManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AWGP.FontManager">
+    <Position X="27.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAgBAAEBAQAIACAAAACA=</HashCode>
+      <FileName>Managers\FontManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AWGP.InputManager">
+    <Position X="24" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>agQIAQLAggEAABCAACAAQAAggAABQBAAAGoIKAMAAAA=</HashCode>
+      <FileName>Managers\InputManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AWGP.ResourceManager">
+    <Position X="31" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAFUAAAACAAAAQAAAAAAhEAERAQAIACAAQACA=</HashCode>
+      <FileName>Managers\ResourceManagerNOTUSING.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AWGP.SoundManager">
+    <Position X="29.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACABQAgAEQAAAAAACAAQAAAABgBAAEBAwAAACAAAAAA=</HashCode>
+      <FileName>Managers\SoundManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AWGP.TextureManager">
+    <Position X="25.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAACACAAAAAAAAghAAABBQAAAAAAAAAA=</HashCode>
+      <FileName>Managers\TextureManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AWGP.Phyics" Collapsed="true">
+    <Position X="34.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OLD\Physics\Phyics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AWGP.iInput" Collapsed="true">
+    <Position X="34.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OLD\Services\iInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AWGP.iPhysics" Collapsed="true">
+    <Position X="34.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OLD\Services\iPhysics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AWGP.iScreenManager" Collapsed="true">
+    <Position X="34.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OLD\Services\iScreenManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AWGP.iService" Collapsed="true">
+    <Position X="34.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OLD\Services\iService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AWGP.iUser" Collapsed="true">
+    <Position X="34.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OLD\Services\iUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AWGP.ServiceManager" Collapsed="true">
+    <Position X="34.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OLD\Services\ServiceManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AWGP.Program">
+    <Position X="20.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AWGP.Resolution">
+    <Position X="32.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAAQgAAgAAgGAAAAEkAAAAEAAAAAAAAIwCAIAIQFA=</HashCode>
+      <FileName>Resolution.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AWGP.GameScreen" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAwAEICAAABAAyAAEAAABAAIDACAAg4AAQAGgEIIBAQ=</HashCode>
+      <FileName>ScreenManagers\GameScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AWGP.MenuScreen">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAEACAEgAAAhKAAAgQAgACAAAESgIAACAACwAYCA4=</HashCode>
+      <FileName>ScreenManagers\MenuScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AWGP.ScreenManager">
+    <Position X="25.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEEAAUAAAAkAAAAAAAAAAAAAAyAAERAAAAAAACAQ=</HashCode>
+      <FileName>ScreenManagers\ScreenManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AWGP.SplashScreen">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAEhEAAAARAAAAAAAAABAAAAAQAAAUABA=</HashCode>
+      <FileName>ScreenManagers\SplashScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AWGP.ControllerSelectScreen">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAwAAAAAABEAAAAAEABAAAAAAgAAACAQ=</HashCode>
+      <FileName>Screens\ControllerSelect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AWGP.Demo01">
+    <Position X="12.5" Y="1.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="AWGP.Demo01.GameStates" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Screens\Demo01.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>QAWAEKThAEBAIwAIAAAEFAEAmAIECIgACQBACACQIIw=</HashCode>
+      <FileName>Screens\Demo01.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AWGP.EngineSplash">
+    <Position X="6.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAABAAAAAAAAAAAACAQ=</HashCode>
+      <FileName>Screens\EngineSplash.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AWGP.JoshDemo">
+    <Position X="14.5" Y="1.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="AWGP.JoshDemo.GameStates" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Screens\JoshDemo.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>QASAEMAkAEgAAwEAAIgE5AAEAEIESAABAAAqAAWQYAw=</HashCode>
+      <FileName>Screens\JoshDemo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AWGP.LoadingScreen">
+    <Position X="4.5" Y="1.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="AWGP.LoadingScreen.GameStates" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Screens\LoadingScreen.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQSEICAAFAAgwAAAAAABAAEAECECAIAAAAgAASQIAQ=</HashCode>
+      <FileName>Screens\LoadingScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AWGP.MainMenu">
+    <Position X="2.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgCAAAAABAAAAAABABAQACAAAgAACIQ=</HashCode>
+      <FileName>Screens\MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AWGP.PhysicsDemo">
+    <Position X="10.5" Y="1.75" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="AWGP.PhysicsDemo.PlayerData" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Screens\PhysicsDemo.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>IAYAEAEQACBAEwSAAABIAQAAEAZAABCAIAAAQICAAIQ=</HashCode>
+      <FileName>Screens\PhysicsDemo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AWGP.UniversitySplash">
+    <Position X="8.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAACAQ=</HashCode>
+      <FileName>Screens\UniversitySplash.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AWGP.User">
+    <Position X="19.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAEAAAAEAAEAAAAAAAAGAAAAAAAAAAA=</HashCode>
+      <FileName>Users\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AWGP.Graphics.Sprites.AnimatedSprite">
+    <Position X="16.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAgAEAAAAAAABAAAAAAAAAAAAACAAAAQAAAAA=</HashCode>
+      <FileName>Graphics\Sprites\AnimatedSprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AWGP.Graphics.Sprites.Sprite">
+    <Position X="17.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAAAQAAAAAgAAAACABAACAGACAgAAAAQAAAAAAAA=</HashCode>
+      <FileName>Graphics\Sprites\Sprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AWGP.Graphics.Sprites.UserControlledSprite">
+    <Position X="18.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQBAAAAAAAAAAAAAAAAAACAAAgAAAAAAAAAAABEAA=</HashCode>
+      <FileName>Graphics\Sprites\UserControlledSprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AWGP.Input.Input">
+    <Position X="22.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OLD\Input\Input.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AWGP.Physics.Particles" Collapsed="true">
+    <Position X="34.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OLD\Physics\Particles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="AWGP.IBehaviour">
+    <Position X="20.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Behaviours\IBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="AWGP.ScreenState">
+    <Position X="6.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACACAAAAAAAAAAAAAAAAAAAAAAAAgAAAIAAAkAAA=</HashCode>
+      <FileName>ScreenManagers\GameScreen.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

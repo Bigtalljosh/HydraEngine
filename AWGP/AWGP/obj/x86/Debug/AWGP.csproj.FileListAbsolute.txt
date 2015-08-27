@@ -1,0 +1,394 @@
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\ApplicationSettings.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\ScreensSettings.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\ServiceSettings.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\KeybindingsSettings.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\bg\jdbackground.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\sfx\jdlaserblast1-1.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\sfx\jdlaserblast1-2.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\sfx\jdlaserblast2-1.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\sfx\jdlaserblast2-2.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\sfx\jdlaserexplo1.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Audio\menus\menumovesound.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Audio\menus\menuselectsound.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Textures\pixel.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Textures\enginesplash.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Textures\universitysplash.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Textures\controllerdetect_BG.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Textures\controllerdetect_button_360.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Textures\controllerdetect_button_PC.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Textures\background.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Textures\cannon.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Textures\carriage.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Textures\foreground.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Textures\rocket.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Textures\actionbutton_empty.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Textures\josh\background.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Textures\josh\guybrush.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Textures\Gem.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Textures\loading_w.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Textures\loading_bg.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Textures\tb_circle.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Textures\tb_pentagon.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Textures\tb_square.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Textures\tb_star.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Textures\toolbox.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Textures\avoidance\avoidanceloadscreen.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Textures\avoidance\avoidancestoryscreen.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Textures\avoidance\av_background.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Textures\avoidance\av_player.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Textures\avoidance\av_asteroid01.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Textures\avoidance\avoidancefinishscreen.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Fonts\titlemenufont.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Fonts\Kootenay.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Fonts\josh\big.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Fonts\josh\small.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Fonts\Koot10.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Fonts\Koot12.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Fonts\Koot14.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Fonts\Koot16.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Fonts\Koot18.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\bg\jdbackgound2.xnb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\bg\jdbackgound2.wma
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\ApplicationSettings.xml
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\ScreensSettings.xml
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\ServiceSettings.xml
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\Content\KeybindingsSettings.xml
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\AWGP.exe
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\AWGP.pdb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\SharedContent.dll
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\bin\x86\Debug\SharedContent.pdb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\obj\x86\Debug\AWGP.EditorForm.resources
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\obj\x86\Debug\AWGP.exe
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\AWGP\AWGP\obj\x86\Debug\AWGP.pdb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\ApplicationSettings.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\ScreensSettings.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\ServiceSettings.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\KeybindingsSettings.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\bg\jdbackground.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\sfx\jdlaserblast1-1.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\sfx\jdlaserblast1-2.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\sfx\jdlaserblast2-1.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\sfx\jdlaserblast2-2.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\sfx\jdlaserexplo1.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\menus\menumovesound.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\menus\menuselectsound.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\pixel.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\enginesplash.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\universitysplash.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\controllerdetect_BG.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\controllerdetect_button_360.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\controllerdetect_button_PC.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\background.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\cannon.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\carriage.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\foreground.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\rocket.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\actionbutton_empty.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\josh\background.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\josh\guybrush.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\Gem.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\loading_w.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\loading_bg.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\tb_circle.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\tb_pentagon.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\tb_square.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\tb_star.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\toolbox.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\avoidance\avoidanceloadscreen.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\avoidance\avoidancestoryscreen.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\avoidance\av_background.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\avoidance\av_player.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\avoidance\av_asteroid01.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\avoidance\avoidancefinishscreen.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\titlemenufont.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\Kootenay.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\josh\big.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\josh\small.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\Koot10.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\Koot12.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\Koot14.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\Koot16.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\Koot18.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\bg\jdbackgound2.xnb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\bg\jdbackgound2.wma
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\ApplicationSettings.xml
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\ScreensSettings.xml
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\ServiceSettings.xml
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\Content\KeybindingsSettings.xml
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\AWGP.exe
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\AWGP.pdb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\SharedContent.dll
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\bin\x86\Debug\SharedContent.pdb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\obj\x86\Debug\AWGP.csprojResolveAssemblyReference.cache
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\obj\x86\Debug\AWGP.EditorForm.resources
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\obj\x86\Debug\AWGP.csproj.GenerateResource.Cache
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\obj\x86\Debug\AWGP.exe
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\AWGP\AWGP\obj\x86\Debug\AWGP.pdb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\ApplicationSettings.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\ScreensSettings.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\ServiceSettings.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\KeybindingsSettings.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\bg\jdbackground.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\sfx\jdlaserblast1-1.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\sfx\jdlaserblast1-2.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\sfx\jdlaserblast2-1.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\sfx\jdlaserblast2-2.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\sfx\jdlaserexplo1.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\menus\menumovesound.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\menus\menuselectsound.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\pixel.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\enginesplash.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\universitysplash.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\controllerdetect_BG.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\controllerdetect_button_360.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\controllerdetect_button_PC.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\background.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\cannon.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\carriage.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\foreground.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\rocket.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\actionbutton_empty.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\josh\background.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\josh\guybrush.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\Gem.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\loading_w.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\loading_bg.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\tb_circle.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\tb_pentagon.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\tb_square.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\tb_star.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\toolbox.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\avoidance\avoidanceloadscreen.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\avoidance\avoidancestoryscreen.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\avoidance\av_background.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\avoidance\av_player.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\avoidance\av_asteroid01.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\avoidance\avoidancefinishscreen.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\titlemenufont.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\Kootenay.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\josh\big.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\josh\small.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\Koot10.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\Koot12.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\Koot14.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\Koot16.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\Koot18.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\bg\jdbackgound2.xnb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\bg\jdbackgound2.wma
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\ApplicationSettings.xml
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\ScreensSettings.xml
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\ServiceSettings.xml
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\KeybindingsSettings.xml
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\AWGP.exe
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\AWGP.pdb
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\SharedContent.dll
+E:\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\SharedContent.pdb
+E:\AWGP\AWGP\AWGP\AWGP\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\AWGP\AWGP\AWGP\AWGP\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\AWGP\AWGP\AWGP\AWGP\obj\x86\Debug\AWGP.EditorForm.resources
+E:\AWGP\AWGP\AWGP\AWGP\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\AWGP\AWGP\AWGP\AWGP\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\AWGP\AWGP\AWGP\AWGP\obj\x86\Debug\AWGP.exe
+E:\AWGP\AWGP\AWGP\AWGP\obj\x86\Debug\AWGP.pdb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\ApplicationSettings.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\ScreensSettings.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\ServiceSettings.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\KeybindingsSettings.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\bg\jdbackground.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\sfx\jdlaserblast1-1.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\sfx\jdlaserblast1-2.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\sfx\jdlaserblast2-1.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\sfx\jdlaserblast2-2.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\sfx\jdlaserexplo1.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\menus\menumovesound.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\menus\menuselectsound.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\pixel.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\enginesplash.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\universitysplash.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\controllerdetect_BG.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\controllerdetect_button_360.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\controllerdetect_button_PC.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\background.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\cannon.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\carriage.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\foreground.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\rocket.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\actionbutton_empty.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\josh\background.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\josh\guybrush.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\Gem.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\loading_w.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\loading_bg.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\tb_circle.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\tb_pentagon.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\tb_square.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\tb_star.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\toolbox.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\avoidance\avoidanceloadscreen.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\avoidance\avoidancestoryscreen.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\avoidance\av_background.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\avoidance\av_player.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\avoidance\av_asteroid01.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\avoidance\avoidancefinishscreen.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\titlemenufont.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\Kootenay.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\josh\big.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\josh\small.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\Koot10.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\Koot12.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\Koot14.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\Koot16.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\Koot18.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\bg\jdbackgound2.xnb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\bg\jdbackgound2.wma
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\ApplicationSettings.xml
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\ScreensSettings.xml
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\ServiceSettings.xml
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\Content\KeybindingsSettings.xml
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\AWGP.exe
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\AWGP.pdb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\SharedContent.dll
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\bin\x86\Debug\SharedContent.pdb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\obj\x86\Debug\AWGP.csprojResolveAssemblyReference.cache
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\obj\x86\Debug\AWGP.EditorForm.resources
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\obj\x86\Debug\AWGP.csproj.GenerateResource.Cache
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\obj\x86\Debug\AWGP.exe
+C:\Users\Josh\Desktop\New folder (2)\AWGP\AWGP\AWGP\obj\x86\Debug\AWGP.pdb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\ApplicationSettings.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\ScreensSettings.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\ServiceSettings.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\KeybindingsSettings.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\bg\jdbackground.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\sfx\jdlaserblast1-1.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\sfx\jdlaserblast1-2.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\sfx\jdlaserblast2-1.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\sfx\jdlaserblast2-2.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\sfx\jdlaserexplo1.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\menus\menumovesound.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\menus\menuselectsound.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\pixel.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\enginesplash.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\universitysplash.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\controllerdetect_BG.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\controllerdetect_button_360.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\controllerdetect_button_PC.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\background.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\cannon.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\carriage.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\foreground.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\rocket.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\actionbutton_empty.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\josh\background.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\josh\guybrush.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\Gem.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\loading_w.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\loading_bg.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\tb_circle.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\tb_pentagon.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\tb_square.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\tb_star.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\toolbox.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\avoidance\avoidanceloadscreen.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\avoidance\avoidancestoryscreen.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\avoidance\av_background.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\avoidance\av_player.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\avoidance\av_asteroid01.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\avoidance\avoidancefinishscreen.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\titlemenufont.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\Kootenay.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\josh\big.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\josh\small.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\Koot10.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\Koot12.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\Koot14.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\Koot16.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\Koot18.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\bg\jdbackgound2.xnb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\bg\jdbackgound2.wma
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\ApplicationSettings.xml
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\ScreensSettings.xml
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\ServiceSettings.xml
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\KeybindingsSettings.xml
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\AWGP.exe
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\AWGP.pdb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\SharedContent.dll
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\SharedContent.pdb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\obj\x86\Debug\AWGP.csprojResolveAssemblyReference.cache
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\obj\x86\Debug\AWGP.EditorForm.resources
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\obj\x86\Debug\AWGP.csproj.GenerateResource.Cache
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\obj\x86\Debug\AWGP.exe
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\AWGP\AWGP\obj\x86\Debug\AWGP.pdb
+\\psf\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\obj\x86\Debug\AWGP.exe
+\\psf\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\obj\x86\Debug\AWGP.pdb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\obj\x86\Debug\AWGP.exe
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\obj\x86\Debug\AWGP.pdb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\ApplicationSettings.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\ScreensSettings.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\ServiceSettings.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\KeybindingsSettings.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\bg\jdbackground.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\sfx\jdlaserblast1-1.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\sfx\jdlaserblast1-2.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\sfx\jdlaserblast2-1.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\sfx\jdlaserblast2-2.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\sfx\jdlaserexplo1.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\menus\menumovesound.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\menus\menuselectsound.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\pixel.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\enginesplash.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\universitysplash.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\controllerdetect_BG.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\controllerdetect_button_360.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\controllerdetect_button_PC.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\cannon.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\carriage.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\foreground.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\rocket.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\actionbutton_empty.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\josh\background.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\josh\guybrush.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\Gem.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\loading_w.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\loading_bg.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\tb_circle.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\tb_pentagon.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\tb_square.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\tb_star.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\toolbox.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\avoidance\avoidanceloadscreen.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\avoidance\avoidancestoryscreen.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\avoidance\av_background.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\avoidance\av_player.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\avoidance\av_asteroid01.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\avoidance\avoidancefinishscreen.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Textures\background.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\titlemenufont.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\Kootenay.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\josh\big.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\josh\small.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\Koot10.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\Koot12.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\Koot14.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\Koot16.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Fonts\Koot18.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\bg\jdbackgound2.xnb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\Audio\josh\bg\jdbackgound2.wma
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\ApplicationSettings.xml
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\ScreensSettings.xml
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\ServiceSettings.xml
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\Content\KeybindingsSettings.xml
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\AWGP.exe
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\AWGP.pdb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\SharedContent.dll
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\bin\x86\Debug\SharedContent.pdb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\obj\x86\Debug\AWGP.csprojResolveAssemblyReference.cache
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\obj\x86\Debug\AWGP.EditorForm.resources
+Z:\Dropbox\University\Year 3\AWGP\AWGP\AWGP\AWGP\obj\x86\Debug\AWGP.csproj.GenerateResource.Cache

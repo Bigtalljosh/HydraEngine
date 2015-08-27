@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+  <XnaContent>
+          
+    <Asset Type="SharedContent.ServiceConfig">
+      <!--
+      <Service id="0" name ="PhysicsService">
+        <Active>3</Active>
+      </Service>-->
+      <isInputServiceActive>true</isInputServiceActive>
+      <isPhysicsServiceActive>true</isPhysicsServiceActive>
+      <isScreenServiceActive>true</isScreenServiceActive>
+      <isUserServiceActive>true</isUserServiceActive>
+      <isOtherServiceActive>Log</isOtherServiceActive>
+      </Asset>
+</XnaContent>

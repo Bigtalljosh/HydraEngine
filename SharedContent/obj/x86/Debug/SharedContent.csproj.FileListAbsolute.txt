@@ -1,0 +1,42 @@
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\SharedContent\bin\x86\Debug\SharedContent.dll
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\SharedContent\bin\x86\Debug\SharedContent.pdb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\SharedContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\SharedContent\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\SharedContent\obj\x86\Debug\SharedContent.dll
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\AWGP(14)\SharedContent\obj\x86\Debug\SharedContent.pdb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\SharedContent\bin\x86\Debug\SharedContent.dll
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\SharedContent\bin\x86\Debug\SharedContent.pdb
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\SharedContent\obj\x86\Debug\SharedContent.csprojResolveAssemblyReference.cache
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\SharedContent\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\SharedContent\obj\x86\Debug\SharedContent.dll
+C:\Users\Shaun\University\Year 3 - Semester 1\Advanced Windows Game Programming\SVN\Team-SuperAwesomeCoolGuys\AWGP\SharedContent\obj\x86\Debug\SharedContent.pdb
+E:\AWGP\AWGP\SharedContent\bin\x86\Debug\SharedContent.dll
+E:\AWGP\AWGP\SharedContent\bin\x86\Debug\SharedContent.pdb
+E:\AWGP\AWGP\SharedContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\AWGP\AWGP\SharedContent\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\AWGP\AWGP\SharedContent\obj\x86\Debug\SharedContent.dll
+E:\AWGP\AWGP\SharedContent\obj\x86\Debug\SharedContent.pdb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\SharedContent\bin\x86\Debug\SharedContent.dll
+C:\Users\Josh\Desktop\New folder (2)\AWGP\SharedContent\bin\x86\Debug\SharedContent.pdb
+C:\Users\Josh\Desktop\New folder (2)\AWGP\SharedContent\obj\x86\Debug\SharedContent.csprojResolveAssemblyReference.cache
+C:\Users\Josh\Desktop\New folder (2)\AWGP\SharedContent\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Josh\Desktop\New folder (2)\AWGP\SharedContent\obj\x86\Debug\SharedContent.dll
+C:\Users\Josh\Desktop\New folder (2)\AWGP\SharedContent\obj\x86\Debug\SharedContent.pdb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\SharedContent\bin\x86\Debug\SharedContent.dll
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\SharedContent\bin\x86\Debug\SharedContent.pdb
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\SharedContent\obj\x86\Debug\SharedContent.csprojResolveAssemblyReference.cache
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\SharedContent\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\SharedContent\obj\x86\Debug\SharedContent.dll
+G:\Dropbox\Dropbox\Uni Work\Year 3\AWGP\AWGP\SharedContent\obj\x86\Debug\SharedContent.pdb
+\\psf\Dropbox\University\Year 3\AWGP\AWGP\SharedContent\bin\x86\Debug\SharedContent.dll
+\\psf\Dropbox\University\Year 3\AWGP\AWGP\SharedContent\bin\x86\Debug\SharedContent.pdb
+\\psf\Dropbox\University\Year 3\AWGP\AWGP\SharedContent\obj\x86\Debug\SharedContent.csprojResolveAssemblyReference.cache
+\\psf\Dropbox\University\Year 3\AWGP\AWGP\SharedContent\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\psf\Dropbox\University\Year 3\AWGP\AWGP\SharedContent\obj\x86\Debug\SharedContent.dll
+\\psf\Dropbox\University\Year 3\AWGP\AWGP\SharedContent\obj\x86\Debug\SharedContent.pdb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\SharedContent\bin\x86\Debug\SharedContent.dll
+Z:\Dropbox\University\Year 3\AWGP\AWGP\SharedContent\bin\x86\Debug\SharedContent.pdb
+Z:\Dropbox\University\Year 3\AWGP\AWGP\SharedContent\obj\x86\Debug\SharedContent.csprojResolveAssemblyReference.cache
+Z:\Dropbox\University\Year 3\AWGP\AWGP\SharedContent\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Z:\Dropbox\University\Year 3\AWGP\AWGP\SharedContent\obj\x86\Debug\SharedContent.dll
+Z:\Dropbox\University\Year 3\AWGP\AWGP\SharedContent\obj\x86\Debug\SharedContent.pdb

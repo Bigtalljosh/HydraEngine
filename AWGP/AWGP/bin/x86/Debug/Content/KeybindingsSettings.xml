@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+  <XnaContent>      
+    <Asset Type="SharedContent.KeybindingsConfig">
+      <!--Menu Options for Keyboard and Gamepad-->
+      <KBMenuSelect>Enter</KBMenuSelect>
+      <KBMenuCancel>Escape</KBMenuCancel>
+      <KBMenuUp>Up</KBMenuUp>
+      <KBMenuDown>Down</KBMenuDown>
+      <GPMenuSelect>A</GPMenuSelect>
+      <GPMenuCancel>Back</GPMenuCancel>
+      <GPMenuUp>DPadUp</GPMenuUp>
+      <GPMenuDown>DPadDown</GPMenuDown>
+      <!--Player Options for Keyboard and Gamepad-->
+      <KBPlayerMoveUp>W</KBPlayerMoveUp>
+      <KBPlayerMoveDown>S</KBPlayerMoveDown>
+      <KBPlayerMoveLeft>A</KBPlayerMoveLeft>
+      <KBPlayerMoveRight>D</KBPlayerMoveRight>
+      <KBPlayerAction01>F1</KBPlayerAction01>
+      <KBPlayerAction02>F2</KBPlayerAction02>
+      <KBPlayerAction03>F3</KBPlayerAction03>
+      <GPPlayerAction01>A</GPPlayerAction01>
+      <GPPlayerAction02>B</GPPlayerAction02>
+      <GPPlayerAction03>Y</GPPlayerAction03>
+      <!--Audio interaction-->
+      <KBAudioVolumeUp>0</KBAudioVolumeUp>
+      <KBAudioVolumeDown>9</KBAudioVolumeDown>
+      <KBAudioToggle>Space</KBAudioToggle>
+      <GPAudioVolumeUp>Y</GPAudioVolumeUp>
+      <GPAudioVolumeDown>X</GPAudioVolumeDown>
+      <GPAudioToggle>B</GPAudioToggle>
+      <!--Interaction Demo-->
+      <KBEnableEditUI>K</KBEnableEditUI>
+      <KBDisableEditUI>L</KBDisableEditUI>
+      <!--Camer interaction-->
+      <KBCameraZoomIn>PageUp</KBCameraZoomIn>
+      <KBCameraZoomOut>PageDown</KBCameraZoomOut>
+      <KBCameraRotateLeft>Insert</KBCameraRotateLeft>
+      <KBCameraRotateRight>Delete</KBCameraRotateRight>
+      <KBCameraReset>R</KBCameraReset>
+    </Asset>
+</XnaContent>

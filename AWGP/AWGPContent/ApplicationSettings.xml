@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="SharedContent.ApplicationConfig">
+    <!--General Application Settings-->
+    <!---->
+    <ScreenTitle>SuperAwesomeCoolGuys - Advanced Windows Game Programming</ScreenTitle>
+    <ScreenWidth>1280</ScreenWidth>
+    <ScreenHeight>720</ScreenHeight>
+    <FullScreen>false</FullScreen>
+    <MouseActive>true</MouseActive>
+    <PhysicsActive>true</PhysicsActive>
+    <!--Splash Screen Names-->
+    <!---->
+    <SSplash01>EngineSplash</SSplash01>
+    <Username>unitoxic</Username>
+  </Asset>
+</XnaContent>

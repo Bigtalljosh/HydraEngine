@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+    <Asset Type="SharedContent.InputConfig">
+        <!--
+          # *************
+          # Set Gamepad
+          # *************
+        -->
+      <A>A</A>
+      <B>B</B>
+      <X>X</X>
+      <Y>Y</Y>
+      <LeftShoulder>LSH</LeftShoulder>
+      <RightShoulder>RSH</RightShoulder>
+      <LeftTrigger>LT</LeftTrigger>
+      <RightTrigger>RT</RightTrigger>
+      <LeftStick>LST</LeftStick>
+      <RightStick>RST</RightStick>
+      <Back>BACK</Back>
+      <Start>START</Start>
+      <DPadDown>DD</DPadDown>
+      <DPadLeft>DL</DPadLeft>
+      <DPadRight>DR</DPadRight>
+      <DPadUp>DU</DPadUp>
+      <LeftThumbstickDown>LTD</LeftThumbstickDown>
+      <LeftThumbstickLeft>LTL</LeftThumbstickLeft>
+      <LeftThumbstickRight>LTR</LeftThumbstickRight>
+      <LeftThumbstickUp>LTU</LeftThumbstickUp>
+      <RightThumbstickDown>RTD</RightThumbstickDown>
+      <RightThumbstickLeft>RTL</RightThumbstickLeft>
+      <RightThumbstickRight>RTR</RightThumbstickRight>
+      <RightThumbstickUp>RTU</RightThumbstickUp>
+      
+    </Asset>
+</XnaContent>
